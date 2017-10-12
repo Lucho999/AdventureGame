@@ -1,0 +1,7 @@
+C:\VisualStudios\Course1\FinalAssignment\AdventureGame\AdventureGame\obj\Debug\AdventureGame.csprojResolveAssemblyReference.cache
+C:\VisualStudios\Course1\FinalAssignment\AdventureGame\AdventureGame\obj\Debug\AdventureGame.csproj.CoreCompileInputs.cache
+C:\VisualStudios\Course1\FinalAssignment\AdventureGame\AdventureGame\bin\Debug\AdventureGame.exe.config
+C:\VisualStudios\Course1\FinalAssignment\AdventureGame\AdventureGame\bin\Debug\AdventureGame.exe
+C:\VisualStudios\Course1\FinalAssignment\AdventureGame\AdventureGame\bin\Debug\AdventureGame.pdb
+C:\VisualStudios\Course1\FinalAssignment\AdventureGame\AdventureGame\obj\Debug\AdventureGame.exe
+C:\VisualStudios\Course1\FinalAssignment\AdventureGame\AdventureGame\obj\Debug\AdventureGame.pdb
